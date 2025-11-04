@@ -30,7 +30,7 @@ Contributions, feedback, and shared development are encouraged through open repo
 
 ## Governance
 
-IM4SEA is coordinated by the **OCHA ROSEA Information Management Unit**, in collaboration with regional and country-level IM officers.  
+IM4SEA is coordinated by the **OCHA ROSEA Information Management Team**, in collaboration with regional and country-level IM officers.  
 All repositories follow OCHA’s open data and interoperability principles to ensure transparency, sustainability, and reusability.
 
 ## Contact
