@@ -35,8 +35,9 @@ All repositories follow OCHA’s open data and interoperability principles to en
 
 ## Contact
 
-For inquiries or collaboration opportunities:  
-**Email:** ocharoseaim@un.org 
-**GitHub:** [https://github.com/im4sea](https://github.com/im4sea)
+For inquiries, suggestions, or collaboration opportunities, please start a discussion or open an issue in the relevant repository.  
+Organization-wide conversations can also be initiated via the [IM4SEA Discussions](https://github.com/orgs/im4sea/discussions) page.  
+
+For partnership or official coordination inquiries, contact the OCHA ROSEA Information Management through internal channels.
 
 > “Better information, smarter analysis, stronger coordination for Southern & Eastern Africa.”
