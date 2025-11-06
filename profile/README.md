@@ -1,6 +1,6 @@
-# IM4SEA - Information Management for Southern & Eastern Africa
+# IM4SEA
 
-**IM4SEA** is an initiative of the **United Nations Office for the Coordination of Humanitarian Affairs – Regional Office for Southern and Eastern Africa (OCHA ROSEA)** tha adavances open, collaborative data systems and tools to strengthen humanitarian information management across the region. It focuses on maintaining and sharing open, interoperable tools, workflows, and analytical systems that improve data management and analysis for coordinated humanitarian action. IM4SEA is not a replacement for OCHA's [Information Managment Toolbox](https://humanitarian.atlassian.net/wiki/spaces/imtoolbox/overview?homepageId=42012406), which provides global guidance, templates, and standards for humanitarian information management.
+**IM4SEA - Information Management for Southern & Eastern Africa** is an initiative of the **United Nations Office for the Coordination of Humanitarian Affairs – Regional Office for Southern and Eastern Africa (OCHA ROSEA)** tha adavances open, collaborative data systems and tools to strengthen humanitarian information management across the region. It focuses on maintaining and sharing open, interoperable tools, workflows, and analytical systems that improve data management and analysis for coordinated humanitarian action. IM4SEA is not a replacement for OCHA's [Information Managment Toolbox](https://humanitarian.atlassian.net/wiki/spaces/imtoolbox/overview?homepageId=42012406), which provides global guidance, templates, and standards for humanitarian information management.
 
 ## Mission
 
@@ -17,7 +17,7 @@ To strengthen humanitarian and development information management through open, 
 
 ## Data Responsibility
 
-IM4SEA adheres to the [OCHA Data Responsibility Guidelines](https://centre.humdata.org/revised-ocha-data-responsibility-guidelines/), ensuring that all data and technologies are managed responsibly, ethically, and in line with humanitarian principles.  
+IM4SEA adheres to the [OCHA Data Responsibility Guidelines](https://centre.humdata.org/revised-ocha-data-responsibility-guidelines/), ensuring that all data and technologies are managed responsibly, ethically, and in line with [Principles of Humanitarian Inforamtion Management](https://humanitarian.atlassian.net/wiki/spaces/imtoolbox/pages/219807814/Principles+of+Humanitarian+IM).  
 
 All tools and models emphasize data protection, transparency, interoperability, and the “do no harm” approach throughout the data lifecycle.
 
