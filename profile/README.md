@@ -23,7 +23,7 @@ All tools and models emphasize data protection, transparency, interoperability, 
 
 ## Collaboration
 
-IM4SEA collaborates with OCHA country offices, humanitarian partners, government institutions, and research, volunary contributors and technology actors to advance regional information management, AI innovation, and data engineering capacity.  
+IM4SEA collaborates with OCHA country offices, humanitarian partners, government institutions, researchers, voluntary contributors and technology actors to advance regional information management, AI innovation, and data engineering capacity.  
 
 Contributions, feedback, and shared development are encouraged through open repositories and regional collaboration spaces. All contributions whether by individuals or organizations are expected to adhere to open-source principles and community guidelines. No financial compensation or billable hours are associated with these contributions, as participation is entirely voluntary and aimed at collective improvement and knowledge sharing.
 
