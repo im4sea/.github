@@ -1,9 +1,6 @@
 # IM4SEA - Information Management for Southern & Eastern Africa
- 
-_An OCHA ROSEA initiative advancing open, collaborative data systems and tools that strengthen humanitarian and development coordination across the region._
 
-**IM4SEA** is an initiative of the **United Nations Office for the Coordination of Humanitarian Affairs – Regional Office for Southern and Eastern Africa (OCHA ROSEA)**.  
-It focuses on developing, maintaining, and sharing open, interoperable tools, workflows, and analytical systems that enhance humanitarian and development data management, analysis, and coordination across the region.
+**IM4SEA** is an initiative of the **United Nations Office for the Coordination of Humanitarian Affairs – Regional Office for Southern and Eastern Africa (OCHA ROSEA)** advancing open, collaborative data systems and tools that strengthen humanitarian and development coordination across the region. It focuses on developing, maintaining, and sharing open, interoperable tools, workflows, and analytical systems that enhance humanitarian and development data management, analysis, and coordination across the region.
 
 ## Mission
 
@@ -21,12 +18,14 @@ To strengthen humanitarian and development information management through open, 
 ## Data Responsibility
 
 IM4SEA adheres to the [OCHA Data Responsibility Guidelines](https://centre.humdata.org/revised-ocha-data-responsibility-guidelines/), ensuring that all data and technologies are managed responsibly, ethically, and in line with humanitarian principles.  
+
 All tools and models emphasize data protection, transparency, interoperability, and the “do no harm” approach throughout the data lifecycle.
 
 ## Collaboration
 
-IM4SEA collaborates with OCHA country offices, humanitarian partners, government institutions, and research and technology actors to advance regional information management, AI innovation, and data engineering capacity.  
-Contributions, feedback, and shared development are encouraged through open repositories and regional collaboration spaces.
+IM4SEA collaborates with OCHA country offices, humanitarian partners, government institutions, and research, volunary contributors and technology actors to advance regional information management, AI innovation, and data engineering capacity.  
+
+Contributions, feedback, and shared development are encouraged through open repositories and regional collaboration spaces. All contributions whether by individuals or organizations are expected to adhere to open-source principles and community guidelines. No financial compensation or billable hours are associated with these contributions, as participation is entirely voluntary and aimed at collective improvement and knowledge sharing.
 
 ## Governance
 
